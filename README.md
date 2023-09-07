@@ -26,3 +26,6 @@ omada2thema23.m file.
 This program was a team effort of: Athina Nikolaou
                                    Spyridon Nikolaou
                                    Isidoros Tsoukalas
+
+
+THE PROGRAM WAS CREATED FOR EDUCATIONAL PURPOSES AND THERE MIGHT BE ERRORS !!
